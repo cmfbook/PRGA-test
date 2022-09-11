@@ -2,7 +2,8 @@
 
 This repository is a branch of the caravel_user_project repository, modified for the tapeout of a 512-LUT4 FPGA generated using PRGA.
 
-
+The project is a test project, forked from the MPW5 PRGA project.
+ 
 A 512-LUT4 FPGA generated using PRGA (Princeton Reconfigurable Gate Array)
  - An 8x8 array of CLBs, each containing 8 LUT4s and 8 DFFs and a local programmable crossbar for intra-CLB routing
  - 24-track routing channel with L1 tracks
